@@ -6,5 +6,7 @@ Criar uma função para adicionar o movimento com click do mause e outra para re
 Não deixar objeto sair da tela
 Add funções ao objeto pelo javaScript apos a pag ter carregado
 
-https://user-images.githubusercontent.com/87935531/190865671-7ddac34b-cbf8-410a-aecd-1cec0ce6b577.mp4
+
+
+https://user-images.githubusercontent.com/87935531/190865754-f7ffb0ce-3379-409e-bdfc-cf88da7f5dc0.mp4
 
